@@ -1,5 +1,15 @@
 <h1>Bergen Covid-19 Research Group (BCRG)</h1>
 
+Steering group:
+* Rebecca J. Cox, professor PhD (PI)
+* Nina Langeland, professor, MD, PhD
+* Kristin G-I Mohn, accociate professor, MD, PhD
+* Bjørn Blomberg, accociate professor, MD, PhD
+* Camilla Tøndel, professor, MD, PhD
+* Karl A. Brokstad, accociate professor, PhD
+
+
+Affiliations:
 * University of Bergen
 * Haukeland University Hospital
 * Western Norway University of Applied Science
