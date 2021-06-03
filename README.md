@@ -16,7 +16,7 @@ Marianne Sævik, Hauke Bartsch, Camilla Tøndel, Bård Reiakvam Kittang, Anders 
 Affiliations:
 * University of Bergen
 * Haukeland University Hospital
-* Western Norway University of Applied Science
+* Western Norway University of Applied Sciences
 * Bergen Municipality Emergency Clinic
 * Haraldsplass Deaconess Hospital
 
