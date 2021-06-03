@@ -1,4 +1,4 @@
-** Bergen Covid-19 Research Group (BCRG)
+<h1>Bergen Covid-19 Research Group (BCRG)</h1>
 
 * University of Bergen
 * Haukeland University Hospital
