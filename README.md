@@ -8,6 +8,10 @@ Steering group:
 * Camilla Tøndel, professor, MD, PhD
 * Karl A. Brokstad, associate professor, PhD
 
+Coworkers:
+Dagrun Waag Linchausen, Bent-Are Hansen, Sarah Lartey Jalloh, Kanika Kuwelker, Fan Zhou, 
+Marianne Sævik, Hauke Bartsch, Camilla Tøndel, Bård Reiakvam Kittang, Anders Madsen, Therese Bredholt Onyango, Geir Bredholt, Juha Vahokoski, Elisabeth Berg Fjelltveit, Amit Bansal, Mai Chi Trieu, Sonja Ljostveit, Jan Stefan Olofsson, Nina Ertesvåg, Helene Heitmann Sandnes, Anette Corydon, Hanne Søyland, Marianne Eidsheim, Kjerstin Jakobsen, Nina Guldseth, Synnøve Hauge
+
 
 Affiliations:
 * University of Bergen
