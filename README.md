@@ -1,8 +1,8 @@
-Bergen Covid-19 Research Group (BCRG)
+** Bergen Covid-19 Research Group (BCRG)
 
-University of Bergen
-Haukeland University Hospital
-Western Norway University of Applied Science
+* University of Bergen
+* Haukeland University Hospital
+* Western Norway University of Applied Science
 
 <!---
 - 👋 Hi, I’m @BC19RG
