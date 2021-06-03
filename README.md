@@ -17,6 +17,8 @@ Affiliations:
 * University of Bergen
 * Haukeland University Hospital
 * Western Norway University of Applied Science
+* Bergen Municipality Emergency Clinic
+* Haraldsplass Deaconess Hospital
 
 <!---
 - 👋 Hi, I’m @BC19RG
