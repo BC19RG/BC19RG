@@ -1,12 +1,12 @@
 <h1>Bergen Covid-19 Research Group (BCRG)</h1>
 
 Steering group:
-* Rebecca J. Cox, professor PhD (PI)
-* Nina Langeland, professor, MD, PhD
-* Kristin G-I Mohn, associate professor, MD, PhD
-* Bjørn Blomberg, associate professor, MD, PhD
-* Camilla Tøndel, professor, MD, PhD
-* Karl A. Brokstad, associate professor, PhD
+* Rebecca J. Cox, Professor PhD (PI)
+* Nina Langeland, Professor, MD, PhD
+* Kristin G-I Mohn, Professor, MD, PhD
+* Bjørn Blomberg, Professor, MD, PhD
+* Camilla Tøndel, Professor, MD, PhD
+* Karl A. Brokstad, Pofessor, PhD
 
 Coworkers:
 Dagrun Waag Linchausen, Bent-Are Hansen, Sarah Lartey Jalloh, Kanika Kuwelker, Fan Zhou, 
