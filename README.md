@@ -6,7 +6,7 @@ Steering group:
 * Kristin G-I Mohn, Professor, MD, PhD
 * Bjørn Blomberg, Professor, MD, PhD
 * Camilla Tøndel, Professor, MD, PhD
-* Karl A. Brokstad, Pofessor, PhD
+* Karl A. Brokstad, Professor, PhD
 
 Coworkers:
 Dagrun Waag Linchausen, Bent-Are Hansen, Sarah Lartey Jalloh, Kanika Kuwelker, Fan Zhou, 
